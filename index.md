@@ -1,5 +1,5 @@
 @def title = "Ganter's Corner"
-@def tags = ["syntax", "code"]
+@def tags = ["Carl Ganter"]
 
 ![](/assets/portraet_ganter.jpg)
 
