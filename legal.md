@@ -1,8 +1,6 @@
 +++
 title = "Legal stuff"
 hascode = false
-
-tags = ["legal"]
 +++
 
 # Impressum

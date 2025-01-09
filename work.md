@@ -1,9 +1,6 @@
 +++
 title = "Projects"
 hascode = false
-date = Date(2025, 1, 6)
-
-tags = ["projects"]
 +++
 
 # Past and ongoing projects
@@ -148,7 +145,7 @@ Quantitative mapping of T2 using partial spoiling.
 [(DOI)](http://dx.doi.org/10.1002/mrm.22807)
 
 \biblabel{Wiener2001}{} Edzard Wiener, Marcus Settles, and Carl Ganter.\
-The quantification of $\Delta R_2$ under brain
+The quantification of $\Delta R_2^\ast$ under brain
 activation: Dependence on relaxation rate at rest and significance threshold.
 *Magnetic Resonance Imaging*, 19:649-657, 2001.
 [(DOI)](http://dx.doi.org/10.1016/s0730-725x(01)00370-8)
