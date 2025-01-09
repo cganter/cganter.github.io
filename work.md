@@ -162,7 +162,7 @@ Configuration space representation of MRI sequences.
 in progress}
 
 \
-Complete publication [listings](https://orcid.org/0000-0002-6735-7448).
+Complete list of [publications](https://orcid.org/0000-0002-6735-7448).
 
 # Teaching
 
