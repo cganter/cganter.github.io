@@ -11,36 +11,6 @@ hascode = false
 
 (Click on topic for related publications.)
 
-\collaps{**Topologically disordered systems**}{
-\biblabel{Schirmacher2019}{5}
-Walter Schirmacher, Viola Folli, Carl Ganter, and Giancarlo Ruocco.\
-Self-consistent Euclidean-random-matrix theory.
-*Journal of Physics A: Mathematical and Theoretical*, 52:464002, 2019.
-[(DOI)](http://dx.doi.org/10.1088/1751-8121/ab4a35)
-
-\biblabel{Ganter2011}{4} Carl Ganter and Walter Schirmacher.\
-Euclidean random matrix theory: Low-frequency non-analyticities and Rayleigh scattering.
-*Philosophical Magazine*, 91:1894-1909, 2011.
-[(DOI)](http://dx.doi.org/10.1080/14786435.2010.530619)
-
-\biblabel{Ganter2010}{3} Carl Ganter and Walter Schirmacher.\
-Rayleigh scattering, long-time tails, and the harmonic spectrum of
-topologically disordered systems.
-*Physical Review B*, 82, 2010.
-[(DOI)](http://dx.doi.org/10.1103/physrevb.82.094205)
-
-\biblabel{Ganter2001}{2} Carl Ganter and Walter Schirmacher.\
-Generalizated effective-medium approximation for hopping transport in
-topologically disordered systems.
-*Philosophical Magazine B*, 81:915-924, 2001.
-[(DOI)](http://dx.doi.org/10.1080/13642810110059784)
-    
-\biblabel{Schirmacher2000}{1} Walter Schirmacher, Gregor Diezemann, and Carl Ganter.\
-Model calculations for the vibrational anomalies of a disordered Lennard-Jones solid.
-*Physica B: Condensed Matter*, 284-288:1147-1148, 2000.
-[(DOI)](http://dx.doi.org/10.1016/s0921-4526(99)02550-8)
-}
-
 \collaps{**SSFP sequences**}{
 \biblabel{Plaehn2024}{} Nils M. J. Pl&auml;hn, Simone Poli, Eva S. Peper, Berk C. A&ccedil;ikg&ouml;z, Roland Kreis, Carl Ganter, and Jessica A. M. Bastiaansen.\
 Getting the phase consistent: The importance of phase description in balanced steady-state free precession MRI of multi-compartment systems.
@@ -160,6 +130,36 @@ Configuration space representation of MRI sequences.
 
 \collaps{**Parallel imaging**}{
 in progress}
+
+\collaps{**Topologically disordered systems**}{
+\biblabel{Schirmacher2019}{5}
+Walter Schirmacher, Viola Folli, Carl Ganter, and Giancarlo Ruocco.\
+Self-consistent Euclidean-random-matrix theory.
+*Journal of Physics A: Mathematical and Theoretical*, 52:464002, 2019.
+[(DOI)](http://dx.doi.org/10.1088/1751-8121/ab4a35)
+
+\biblabel{Ganter2011}{4} Carl Ganter and Walter Schirmacher.\
+Euclidean random matrix theory: Low-frequency non-analyticities and Rayleigh scattering.
+*Philosophical Magazine*, 91:1894-1909, 2011.
+[(DOI)](http://dx.doi.org/10.1080/14786435.2010.530619)
+
+\biblabel{Ganter2010}{3} Carl Ganter and Walter Schirmacher.\
+Rayleigh scattering, long-time tails, and the harmonic spectrum of
+topologically disordered systems.
+*Physical Review B*, 82, 2010.
+[(DOI)](http://dx.doi.org/10.1103/physrevb.82.094205)
+
+\biblabel{Ganter2001}{2} Carl Ganter and Walter Schirmacher.\
+Generalizated effective-medium approximation for hopping transport in
+topologically disordered systems.
+*Philosophical Magazine B*, 81:915-924, 2001.
+[(DOI)](http://dx.doi.org/10.1080/13642810110059784)
+    
+\biblabel{Schirmacher2000}{1} Walter Schirmacher, Gregor Diezemann, and Carl Ganter.\
+Model calculations for the vibrational anomalies of a disordered Lennard-Jones solid.
+*Physica B: Condensed Matter*, 284-288:1147-1148, 2000.
+[(DOI)](http://dx.doi.org/10.1016/s0921-4526(99)02550-8)
+}
 
 \
 Complete list of [publications](https://orcid.org/0000-0002-6735-7448).
