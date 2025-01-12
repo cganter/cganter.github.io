@@ -322,7 +322,8 @@ Harmonic vibrational excitations in disordered solids and the "boson peak".
 }
 
 \
-Complete list of [publications](https://orcid.org/0000-0002-6735-7448).
+
+ORCID: [0000-0002-6735-7448](https://orcid.org/0000-0002-6735-7448)
 
 # Teaching
 
