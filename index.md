@@ -11,9 +11,12 @@ in the field of magnetic resonance imaging (MRI).
 
 Carl Ganter, Ph.D.
 
-TUM School of Medicine and Health\
-Department of Diagnostic and Interventional Radiology\
+Department of Diagnostic and Interventional Radiology
+
+TUM University Hospital\
+Rechts der Isar
+
 Ismaningerstr. 22\
-81675 Munich
+81675 Munich, Germany
 
 [cganter@tum.de](mailto:cganter@tum.de)
