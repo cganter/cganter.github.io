@@ -336,5 +336,5 @@ Actual and past [courses](https://campus.tum.de/tumonline/wblvangebot.wbshowlvof
 # Collaborations
 
 [Radiological Physics, University Hospital Basel, CH (Prof. Bieri)](https://dbe.unibas.ch/en/research/imaging-modelling-diagnosis/magnetic-resonance-physics-methodology/)\
-[Body Magnetic Resonance Research Group](http://bmrr.de/) [(Prof. Karampinos)](https://www.professoren.tum.de/en/karampinos-dimitrios)\
+[Body Magnetic Resonance Research Group](http://bmrr.de/) [(Prof. Karampinos)](https://people.epfl.ch/dimitrios.karampinos?lang=en)\
 [Prof. Walter Schirmacher](http://www.staff.uni-mainz.de/schirmac/)
