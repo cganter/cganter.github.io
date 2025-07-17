@@ -133,8 +133,6 @@ Configuration space representation of MRI sequences.
 [(DOI)](http://dx.doi.org/10.1002/mrm.29101) [(preprint)](/assets/CCM_preprint.pdf) [(code)](https://github.com/cganter/CoMoTk)
 }
 
-\collaps{**Parallel imaging**}{
-in progress}
 
 \collaps{**Clinical collaborations**}{
 Nico Sollmann, Dominik Weidlich, Elisabeth Klupp, Barbara Cervantes, Carl Ganter, Claus Zimmer, Ernst J. Rummeny, Thomas Baum, Jan S. Kirschke, and Dimitrios C. Karampinos.\
