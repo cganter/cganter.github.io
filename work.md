@@ -133,8 +133,27 @@ Configuration space representation of MRI sequences.
 [(DOI)](http://dx.doi.org/10.1002/mrm.29101) [(preprint)](/assets/CCM_preprint.pdf) [(code)](https://github.com/cganter/CoMoTk)
 }
 
-
 \collaps{**Clinical collaborations**}{
+Tun Wiltgen, Julian McGinnis, Ronja Berg, Cui Ci Voon, Oula Puonti, Katrin Giglhuber, Carl Ganter, Claus Zimmer, Bernhard Hemmer, Benedikt Wiestler, Jan Kirschke, Christine Preibisch, and Mark Mühlau.\
+Towards quantitative intensity analysis of conventional T1-weighted images in multiple sclerosis.
+*NeuroImage*, 318:121395, 2025. 
+[(DOI)](http://dx.doi.org/10.1016/j.neuroimage.2025.121395)
+
+Ivan Kokhanovskyi, Carlos Castillo-Passi, Michael G. Crabb, Carl Ganter, Simon J. Littlewood, Karl P. Kunze, Dimitrios C.Karampinos, Marcus R. Makowski, Daniel Rueckert, Claudia Prieto, and René M. Botnar.\
+High-resolution 3D whole-heart bright- and black-blood imaging with co-registered T2 mapping at 0.55 T.
+*Frontiers in Cardiovascular Medicine*, 12, 2025.
+[(DOI)](http://dx.doi.org/10.3389/fcvm.2025.1572318)
+
+Tobias Koppara, Isabel Dregely, Stephan G. Nekolla, Jörg Nährig, Nicolas Langwieser, Christian Bradaric, Carl Ganter, Karl-Ludwig Laugwitz, Markus Schwaiger, and Tareq Ibrahim.\
+Simultaneous 18-FDG PET and MR imaging in lower extremity arterial disease.
+*Frontiers in Cardiovascular Medicine*, 11, 2024.
+[(DOI)](http://dx.doi.org/10.3389/fcvm.2024.1352696)
+
+Florian T. Gassert, Alexander Kufner, Martin Renz, Felix G. Gassert, Christine Bollwein, Sophia Kronthaler, Georg C. Feuerriegel, Jan S. Kirschke, Carl Ganter, Marcus R. Makowski, Christian Braun, Benedikt J. Schwaiger, Klaus Woertler, Dimitrios C. Karampinos, and Alexandra S.Gersing.\
+Comparing CT‐Like Images Based on Ultra‐Short Echo Time and Gradient Echo T1‐Weighted MRI Sequences for the Assessment of Vertebral Disorders Using Histology and True CT as the Reference Standard.
+*Journal of Magnetic Resonance Imaging*, 59:1542-1552, 2023.
+[(DOI)](http://dx.doi.org/10.1002/jmri.28927)
+
 Nico Sollmann, Dominik Weidlich, Elisabeth Klupp, Barbara Cervantes, Carl Ganter, Claus Zimmer, Ernst J. Rummeny, Thomas Baum, Jan S. Kirschke, and Dimitrios C. Karampinos.\
 T2 mapping of the distal sciatic nerve in healthy subjects and patients suffering from lumbar disc herniation with nerve compression.
 *Magnetic Resonance Materials in Physics Biology and Medicine*, 33:713-724, 2020.
