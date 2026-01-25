@@ -5,8 +5,8 @@ title = "Projects"
 hascode = false
 +++
 
-Physicist and researcher at the [TUM Department of Diagnostic and Interventional Radiology](https://radiologie.mri.tum.de)
-in the field of magnetic resonance imaging (MRI).
+Physicist and researcher in the field of magnetic resonance imaging (MRI)\
+at the [TUM Department of Diagnostic and Interventional Radiology](https://radiologie.mri.tum.de).
 
 ## Past and ongoing projects
 
