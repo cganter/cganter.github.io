@@ -1,12 +1,9 @@
-@def title="Carl Ganter"
+@def title=""
 
 +++
 title = "Projects"
 hascode = false
 +++
-
-Physicist and researcher in the field of magnetic resonance imaging (MRI)\
-at the [TUM Department of Diagnostic and Interventional Radiology](https://radiologie.mri.tum.de).
 
 ## Past and ongoing projects
 
