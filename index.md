@@ -70,6 +70,11 @@ sequences.
 }
 
 \collaps{**Quantitative imaging**}{
+\biblabel{Ganter2026}{} Carl Ganter, Jonathan Stelter, Louis Peyratoux, Dimitrios C. Karampinos, and Oliver Bieri.\
+Fully-constrained variable projection for water-fat models.
+*Magnetic Resonance in Medicine*, May 2026.
+[(DOI)](http://dx.doi.org/10.1002/mrm.70428)
+
 \biblabel{BieriGanter2024}{} Oliver Bieri, Claudia Weidensteiner, and Carl Ganter.\
 Robust T2 estimation with balanced steady state free precession.
 *Magnetic Resonance in Medicine*, 91:2257-2265, June 2024.
